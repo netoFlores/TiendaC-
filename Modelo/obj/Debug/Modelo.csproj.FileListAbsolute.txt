@@ -1,0 +1,5 @@
+c:\Users\Neto\documents\visual studio 2015\Projects\TiendaIS\Modelo\bin\Debug\Modelo.dll
+c:\Users\Neto\documents\visual studio 2015\Projects\TiendaIS\Modelo\bin\Debug\Modelo.pdb
+c:\Users\Neto\documents\visual studio 2015\Projects\TiendaIS\Modelo\obj\Debug\Modelo.dll
+c:\Users\Neto\documents\visual studio 2015\Projects\TiendaIS\Modelo\obj\Debug\Modelo.pdb
+c:\Users\Neto\documents\visual studio 2015\Projects\TiendaIS\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache

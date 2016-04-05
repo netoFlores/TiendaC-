@@ -1,0 +1,8 @@
+c:\Users\Neto\documents\visual studio 2015\Projects\TiendaIS\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+c:\Users\Neto\documents\visual studio 2015\Projects\TiendaIS\Controlador\bin\Debug\Controlador.dll
+c:\Users\Neto\documents\visual studio 2015\Projects\TiendaIS\Controlador\bin\Debug\Controlador.pdb
+c:\Users\Neto\documents\visual studio 2015\Projects\TiendaIS\Controlador\bin\Debug\Modelo.dll
+c:\Users\Neto\documents\visual studio 2015\Projects\TiendaIS\Controlador\bin\Debug\MySql.Data.dll
+c:\Users\Neto\documents\visual studio 2015\Projects\TiendaIS\Controlador\bin\Debug\Modelo.pdb
+c:\Users\Neto\documents\visual studio 2015\Projects\TiendaIS\Controlador\obj\Debug\Controlador.dll
+c:\Users\Neto\documents\visual studio 2015\Projects\TiendaIS\Controlador\obj\Debug\Controlador.pdb

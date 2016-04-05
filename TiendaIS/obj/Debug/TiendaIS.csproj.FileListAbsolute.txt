@@ -1,0 +1,14 @@
+c:\users\neto\documents\visual studio 2015\Projects\TiendaIS\TiendaIS\bin\Debug\TiendaIS.exe.config
+c:\users\neto\documents\visual studio 2015\Projects\TiendaIS\TiendaIS\bin\Debug\TiendaIS.exe
+c:\users\neto\documents\visual studio 2015\Projects\TiendaIS\TiendaIS\bin\Debug\TiendaIS.pdb
+c:\users\neto\documents\visual studio 2015\Projects\TiendaIS\TiendaIS\obj\Debug\TiendaIS.csprojResolveAssemblyReference.cache
+c:\users\neto\documents\visual studio 2015\Projects\TiendaIS\TiendaIS\obj\Debug\TiendaIS.Properties.Resources.resources
+c:\users\neto\documents\visual studio 2015\Projects\TiendaIS\TiendaIS\obj\Debug\TiendaIS.csproj.GenerateResource.Cache
+c:\users\neto\documents\visual studio 2015\Projects\TiendaIS\TiendaIS\obj\Debug\TiendaIS.exe
+c:\users\neto\documents\visual studio 2015\Projects\TiendaIS\TiendaIS\obj\Debug\TiendaIS.pdb
+c:\users\neto\documents\visual studio 2015\Projects\TiendaIS\TiendaIS\obj\Debug\TiendaIS.Form1.resources
+c:\users\neto\documents\visual studio 2015\Projects\TiendaIS\TiendaIS\bin\Debug\Controlador.dll
+c:\users\neto\documents\visual studio 2015\Projects\TiendaIS\TiendaIS\bin\Debug\Modelo.dll
+c:\users\neto\documents\visual studio 2015\Projects\TiendaIS\TiendaIS\bin\Debug\MySql.Data.dll
+c:\users\neto\documents\visual studio 2015\Projects\TiendaIS\TiendaIS\bin\Debug\Controlador.pdb
+c:\users\neto\documents\visual studio 2015\Projects\TiendaIS\TiendaIS\bin\Debug\Modelo.pdb
